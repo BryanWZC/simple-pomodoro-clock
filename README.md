@@ -1,6 +1,6 @@
 # Simple Pomodoro Clock
 &nbsp;
-A simple calculator that runs arithmetic functions and stores the last 5 results to be seen in the history section. Website available via this [link].
+A simple countdown timer that uses the [Pomodoro techinique] to allow one to work more efficiently. Website available via this [link].
 &nbsp;
 ### How to run:
 1. Install Node.js and React.
@@ -18,3 +18,4 @@ Perhaps adding an animation to the countdown display box to phase through severa
 &nbsp;
 
 [link]:  https://bryanwzc.github.io/simple-pomodoro-clock/
+[Pomodoro techinique]: https://en.wikipedia.org/wiki/Pomodoro_Technique#:~:text=The%20Pomodoro%20Technique%20is%20a,length%2C%20separated%20by%20short%20breaks.
